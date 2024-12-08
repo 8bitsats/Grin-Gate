@@ -1,6 +1,6 @@
-# AiSolanaTokenGates# Solana Token Gate Implementation Guide
+Cheshire Terminal's Ai Solana Wallet Adapter Token Gate Implementation Guide
 
-This guide explains how to implement token gating functionality in a React application using Solana Web3.js and wallet adapters.
+This guide explains how to implement token gating functionality in an Ai Model React application using Solana Web3.js and wallet adapters.
 
 ## Overview
 
