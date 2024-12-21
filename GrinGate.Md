@@ -1,15 +1,4 @@
-Below is a **complete, from-scratch** example showing how you might implement a **Grin Token Gate** on the Solana blockchain with a novel on-chain oracle AI agent—called **"Chesh"**—running on a local Solana validator. This guide integrates:
-
-1. **Token Gating** (requiring the user to hold a specific SPL token).  
-2. **Real-time data parsing** from the AI agent’s blockchain engine (Chesh).  
-3. **Fee relaying** with best-route optimization for Solana transactions.  
-4. **Chesh’s local validator** confirmations before gating access.  
-
-> **Note**: Parts of this setup are conceptual or experimental. In a production environment, you will need to implement the on-chain AI oracle logic (Chesh), handle security considerations around AI-based transaction confirmations, and properly set up a local validator that recognizes your AI aggregator program.
-
----
-
-# Cheshire Terminal's Ai Solana Wallet Adapter Token Gate Implementation Guide
+Cheshire Terminal's Ai Solana Wallet Adapter Token Gate Implementation Guide
 
 Below is an opinionated structure for building and integrating a token gate with an on-chain AI oracle (Chesh) in a React + TypeScript environment.
 
